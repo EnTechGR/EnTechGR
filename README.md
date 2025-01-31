@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Welcome to my page, I'm Marinos and I'm a aspiring software developer...</h2>
+<h2 align="left">Hi 👋! Welcome to my page, I'm Marinos and I'm an aspiring software developer...</h2>
 
 ###
 
