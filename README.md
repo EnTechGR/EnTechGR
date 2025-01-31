@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Welcome to my github page, I'm Marinos and I'm an aspiring software developer...</h2>
+<h2 align="left">Hi 👋! Welcome to my GitHub page. I'm Marinos, an aspiring software developer, currently exploring Web3.0 and cybersecurity.</h2>
 
 ###
 
