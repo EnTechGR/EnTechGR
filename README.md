@@ -29,6 +29,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+## 🏆 Google Developer Badges
+
+| Badge | Achievement | Date |
+| :---: | :--- | :--- |
+| <img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" width="50"> | **Chrome DevTools User** | Dec 2025 |
+| <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="50"> | **Google Cloud Innovator** | Jan 2025 |
+| <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-2-pathway-1/badge.svg" width="50"> | **Android: Get user input** | Feb 2021 |
+| <img src="https://developers.google.com/static/profile/badges/events/beta/beta-user.svg" width="50"> | **Google Developer Program Beta** | Feb 2021 |
+
 ###
 
 <div align="left">
