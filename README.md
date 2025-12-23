@@ -13,6 +13,27 @@
 
 ###
 
+<h3>Google Developer Achievements</h3>
+<p>
+  <img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" width="60" title="Chrome DevTools User">
+  <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="60" title="Google Cloud Innovator">
+  <img src="https://developers.google.com/static/profile/badges/events/beta/beta-user.svg" width="60" title="Google Developer Program Beta User">
+  <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="60" title="Joined the Google Developer Program">
+  
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-pathway-one/badge.svg" width="60" title="Introduction to Kotlin">
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-pathway-two/android-basics-kotlin-pathway-two.svg" width="60" title="First App in Android Studio">
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-pathway-three/android-basics-kotlin-pathway-three.svg" width="60" title="Build a Basic Layout">
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-pathway-four/android-basics-kotlin-pathway-four.svg" width="60" title="Dice Roller App">
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-2-pathway-1/badge.svg" width="60" title="Get user input in an app: Part 1">
+  <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" width="60" title="Android Studio User">
+  <img src="https://developers.google.com/static/profile/badges/activity/android/building-my-first-app/badge.svg" width="60" title="First Android app">
+  
+  <img src="https://developers.google.com/static/profile/badges/codelabs/first-codelab/badge.svg" width="60" title="Completed 1+ Codelab">
+  <img src="https://developers.google.com/static/profile/badges/playlists/first-playlist/badge.svg" width="60" title="First Learning Pathway and Quiz badge">
+</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -28,14 +49,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="csharp logo"  />
 </div>
-
-<h3>Google Developer Achievements</h3>
-<a href="https://developers.google.com/profile/u/YOUR_PROFILE_ID">
-  <img src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" width="60" alt="Chrome DevTools">
-  <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" width="60" alt="Cloud Innovator">
-  <img src="https://developers.google.com/static/profile/badges/events/beta/beta-user.svg" width="60" alt="Beta User">
-  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-pathway-one/badge.svg" width="60" alt="Kotlin Intro">
-</a>
 
 ###
 
