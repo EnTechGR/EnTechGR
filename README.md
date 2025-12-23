@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgzNDcwNzEsIm5iZiI6MTczODM0Njc3MSwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTMxVDE4MDYxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0N2MzODE5NmRjZjM1MmYyM2RhOTVkODA4ODUxYjJiZTcwODZiYTY3MzVkYjVmZDQ3YmU4YzRiZTMwM2VlZjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JvRtAk8eZ8mvI7iHjJ_tFlFSJu6cQcTvFHXh3Q_cfLc"  />
+<img align="right" height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=entechgr&layout=compact&langs_count=8&card_width=320"  />
 
 ###
 
