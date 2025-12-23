@@ -58,7 +58,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="swagger logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bearer/bearer-original.svg" height="30" alt="bearer logo" />
 </div>
 
 ###
