@@ -1,5 +1,3 @@
-<h2 align="left">👋Welcome to my GitHub page. I'm Marinos, an aspiring software developer, currently exploring Web3.0 and cybersecurity.</h2>
-
 ###
 
 <div align="center">
